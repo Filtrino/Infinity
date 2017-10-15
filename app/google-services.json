@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "34748345744",
+    "firebase_url": "https://infinity-85a6c.firebaseio.com",
+    "project_id": "infinity-85a6c",
+    "storage_bucket": "infinity-85a6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34748345744:android:9fb9bd76d52f8f65",
+        "android_client_info": {
+          "package_name": "com.example.alessio.infinity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34748345744-siidom1jtce4e3hvs1ek53g2jqlcotld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alessio.infinity",
+            "certificate_hash": "e9583a4e5513753d88a76b76f4e351e3f8f1aabd"
+          }
+        },
+        {
+          "client_id": "34748345744-q21batb0ujv3q0fjhn8onptuq4aeb60a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM7j_eICGwZajxrVry2nedGH5tKfJX5A8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34748345744-q21batb0ujv3q0fjhn8onptuq4aeb60a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
